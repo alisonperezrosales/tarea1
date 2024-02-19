@@ -1,0 +1,14 @@
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.AssemblyInfoInputs.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.AssemblyInfo.vb
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.vbproj.CoreCompileInputs.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\bin\Debug\net8.0\Tarea 2 clase.exe
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\bin\Debug\net8.0\Tarea 2 clase.deps.json
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\bin\Debug\net8.0\Tarea 2 clase.runtimeconfig.json
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\bin\Debug\net8.0\Tarea 2 clase.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\bin\Debug\net8.0\Tarea 2 clase.pdb
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\refint\Tarea 2 clase.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.pdb
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\Tarea 2 clase.genruntimeconfig.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\Tarea 2 clase\Tarea 2 clase\obj\Debug\net8.0\ref\Tarea 2 clase.dll
